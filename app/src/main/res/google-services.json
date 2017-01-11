@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "326580973344",
+    "firebase_url": "https://image-upload-e666f.firebaseio.com",
+    "project_id": "image-upload-e666f",
+    "storage_bucket": "image-upload-e666f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326580973344:android:079fc4bf18af2fa5",
+        "android_client_info": {
+          "package_name": "com.boopalan.firebaseimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326580973344-e1i70k2i2s5no4e3ljdrbrvgikh0tb25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwEx-eAm0MVYrAhazvh94hyF_z_Q1p7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
